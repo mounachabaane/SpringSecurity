@@ -1,0 +1,10 @@
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/config/SpringSecurityConfig.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/error/validator/AuthorValidator.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/BookRepository.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/error/CustomGlobalExceptionHandler.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/error/validator/Author.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/StartBookApplication.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/Book.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/error/BookNotFoundException.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/BookController.java
+/home/muna/dev/projects/spring-boot/spring-rest-security/src/main/java/com/mkyong/error/BookUnSupportedFieldPatchException.java
